@@ -1,2 +1,0 @@
-AI Flow Debugger/Chat       https://gitlab.cloudwalk.work/ml/aiflow-tool             	以独立项目的方式开发
-AI Flow Metrics                    https://gitlab.cloudwalk.work/ml/dageditor-vue       		以module的形式整合进DagEditor
